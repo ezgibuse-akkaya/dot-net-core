@@ -1,0 +1,40 @@
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.deps.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\ref\AuthServer.Data.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\ref\AuthServer.Data.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.genruntimeconfig.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.deps.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.dev.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\ref\AuthServer.Data.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.AssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.AssemblyInfoInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.AssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.CopyComplete
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\ref\AuthServer.Data.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.genruntimeconfig.cache

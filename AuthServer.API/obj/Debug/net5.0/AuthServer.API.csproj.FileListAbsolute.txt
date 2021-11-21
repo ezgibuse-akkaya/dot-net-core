@@ -1,0 +1,160 @@
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.exe
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.deps.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.runtimeconfig.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\ref\AuthServer.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\scopedcss\bundle\AuthServer.API.styles.css
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\ref\AuthServer.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.genruntimeconfig.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.exe
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.deps.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.runtimeconfig.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.runtimeconfig.dev.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\ref\AuthServer.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.API.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.AssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfoInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.Manifest.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.xml
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\scopedcss\bundle\AuthServer.API.styles.css
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.RazorTargetAssemblyInfo.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CopyComplete
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\ref\AuthServer.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\AuthServer.API\obj\Debug\net5.0\AuthServer.API.genruntimeconfig.cache

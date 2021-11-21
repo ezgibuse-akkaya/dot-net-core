@@ -1,0 +1,24 @@
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb

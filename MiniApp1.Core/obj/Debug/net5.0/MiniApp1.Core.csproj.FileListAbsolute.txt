@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.deps.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\ref\MiniApp1.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\ref\MiniApp1.Core.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.deps.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\ref\MiniApp1.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\MiniApp1.Core.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.AssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.AssemblyInfoInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.AssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.csproj.CopyComplete
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\ref\MiniApp1.Core.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp1.Core\obj\Debug\net5.0\MiniApp1.Core.pdb

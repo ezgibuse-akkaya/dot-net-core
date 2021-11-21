@@ -1,0 +1,76 @@
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.exe
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.deps.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.runtimeconfig.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\ref\MiniApp3.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\staticwebassets\MiniApp3.API.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\staticwebassets\MiniApp3.API.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\scopedcss\bundle\MiniApp3.API.styles.css
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\ref\MiniApp3.API.dll
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.pdb
+C:\Users\ASUS\Desktop\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.genruntimeconfig.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.exe
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.deps.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.runtimeconfig.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.runtimeconfig.dev.json
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\ref\MiniApp3.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\MiniApp3.API.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.AssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.AssemblyInfoInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.AssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\staticwebassets\MiniApp3.API.StaticWebAssets.Manifest.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\staticwebassets\MiniApp3.API.StaticWebAssets.xml
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\scopedcss\bundle\MiniApp3.API.styles.css
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.RazorTargetAssemblyInfo.cache
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csproj.CopyComplete
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\ref\MiniApp3.API.dll
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\AuthServer-master (2)\AuthServer-master\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.genruntimeconfig.cache
